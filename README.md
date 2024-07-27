@@ -1,2 +1,0 @@
-# codewayinternship
- python codes
